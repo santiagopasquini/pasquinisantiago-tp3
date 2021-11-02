@@ -141,6 +141,7 @@ PB1 -> LED 8
 int main (void)
 {
  
+ nhinbhuhbuibhhu
   //! aca se escriben las inicializasiones
 
   while(1)
